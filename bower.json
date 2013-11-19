@@ -1,0 +1,29 @@
+{
+  "name": "RTCMultiConnection",
+  "version": "1.4.0",
+  "homepage": "https://www.webrtc-experiment.com",
+  "authors": [
+    "Muaz Khan <muazkh@gmail.com>"
+  ],
+  "description": "RTCMultiConnection from WebRTC-Experiment",
+  "main": "RTCMultiConnection.js",
+  "keywords": [
+    "rtc",
+    "webrtc",
+    "peerconnection",
+    "peer",
+    "experiment",
+    "webrtc-experiment",
+    "video",
+    "audio",
+    "p2p"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
